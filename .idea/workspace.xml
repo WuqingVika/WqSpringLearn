@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0e8e9d-d8fd-4ef1-ab7e-df80ba660db6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Chapter1_1setbeanJava_war_exploded/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter1-1setbeanJava/target/Chapter1-1setbeanJava/WEB-INF/classes/soundsystem/CDPlayerTest.class" afterPath="$PROJECT_DIR$/Chapter1-1setbeanJava/target/Chapter1-1setbeanJava/WEB-INF/classes/soundsystem/CDPlayerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter1-1setbeanJava/src/main/java/soundsystem/CDPlayerTest.java" afterPath="$PROJECT_DIR$/Chapter1-1setbeanJava/src/main/java/soundsystem/CDPlayerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter1-1setbeanJava/src/main/java/soundsystem/SgtPeppers.java" afterPath="$PROJECT_DIR$/Chapter1-1setbeanJava/src/main/java/soundsystem/SgtPeppers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter1-2setBeanXml/src/main/java/soundsystem/CDPlayerTest.java" afterPath="$PROJECT_DIR$/Chapter1-2setBeanXml/src/main/java/soundsystem/CDPlayerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter1-2setBeanXml/src/main/java/soundsystem/SgtPeppers.java" afterPath="$PROJECT_DIR$/Chapter1-2setBeanXml/src/main/java/soundsystem/SgtPeppers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="25">
-                <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <first_editor relative-caret-position="-223">
+                <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -177,6 +169,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springlearn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springlearn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -185,7 +195,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27701148" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -832,7 +842,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512195144729</updated>
-      <workItem from="1512195151682" duration="15315000" />
+      <workItem from="1512195151682" duration="15680000" />
     </task>
     <servers />
   </component>
@@ -869,7 +879,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15315000" />
+    <option name="totallyTimeSpent" value="15680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1050,8 +1060,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="25">
-            <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <first_editor relative-caret-position="-223">
+            <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1112,12 +1122,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Chapter1-1setbeanJava</last-edited>
+          <last-edited>Web|Chapter1-1setbeanJava</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.27701148" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1129,7 +1138,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27701148" />
               </list>
             </option>
           </splitter-proportions>

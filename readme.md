@@ -5,10 +5,10 @@
   - 基于Java配置 
   - 基于Xml配置
      - 注解获取配置文件
-     ```@RunWith(SpringJUnit4ClassRunner.class)
-        @ContextConfiguration(locations = {"classpath:wqspring.xml"})```
+     >@RunWith(SpringJUnit4ClassRunner.class)
+     @ContextConfiguration(locations = {"classpath:wqspring.xml"})
      - java代码获取配置文件
-     ```ApplicationContext ac = new ClassPathXmlApplicationContext("classpath:wqspring.xml")```
+     > ApplicationContext ac = new ClassPathXmlApplicationContext("classpath:wqspring.xml")```
   - 为组件扫描的bean命名
      - Component("别名") 与获取配置文件getBean("别名")一一对应
      - Component也可以用Named(别名)代替，但还是建议用Component较好
