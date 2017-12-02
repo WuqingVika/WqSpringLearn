@@ -23,7 +23,7 @@ public class CDPlayerTest {
         //当不采用Runwith和ContextConfiguration注解可以使用如下获取配置文件
         //ApplicationContext ac = new ClassPathXmlApplicationContext("classpath:wqspring.xml");//等同于下面那种。
         ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("classpath:wqspring.xml");
-        cd= (CompactDisc) ac.getBean("sgtPeppers");//如果起别名的时候 name需要与之对应哦。
+        cd= (CompactDisc) ac.getBean("test");//如果起别名的时候 name需要与之对应哦。
         cd.play();
     }
 }
