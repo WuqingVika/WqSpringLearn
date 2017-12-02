@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter1-2setBeanXml:war">
+    <output-path>$PROJECT_DIR$/Chapter1-2setBeanXml/target</output-path>
+    <root id="archive" name="Chapter1-2setBeanXml.war">
+      <element id="artifact" artifact-name="Chapter1-2setBeanXml:war exploded" />
+    </root>
+  </artifact>
+</component>

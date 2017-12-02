@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter1-1setbeanJava:war">
+    <output-path>$PROJECT_DIR$/Chapter1-1setbeanJava/target</output-path>
+    <root id="archive" name="Chapter1-1setbeanJava.war">
+      <element id="artifact" artifact-name="Chapter1-1setbeanJava:war exploded" />
+    </root>
+  </artifact>
+</component>
