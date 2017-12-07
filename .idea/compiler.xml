@@ -9,12 +9,14 @@
         <module name="Chapter1-1setbeanJava" />
         <module name="Chapter1-2setBeanXml" />
         <module name="Chapter1setbean" />
+        <module name="Chapter2-2-5Autowired" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Chapter1-1setbeanJava" target="1.5" />
       <module name="Chapter1-2setBeanXml" target="1.5" />
       <module name="Chapter1setbean" target="1.5" />
+      <module name="Chapter2-2-5Autowired" target="1.5" />
       <module name="springlearn" target="1.5" />
     </bytecodeTargetLevel>
   </component>
